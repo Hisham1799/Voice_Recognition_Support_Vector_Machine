@@ -99,10 +99,6 @@ The SVM model demonstrated high accuracy in classifying gender based on voice fe
 4. Open the `Gender_Classification_SVM.ipynb` file and execute the cells.
 
 ## References
-
-- UCI Machine Learning Repository: [Gender Recognition by Voice Dataset](https://archive.ics.uci.edu/ml/datasets/gender+recognition+by+voice)
 - Scikit-Learn Documentation: [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
-
 ---
-
 This README provides an overview of the SVM-based gender classification project, including data preprocessing, model evaluation, and hyperparameter tuning. For a detailed explanation and visualization, please refer to the project notebook.
