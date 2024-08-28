@@ -12,8 +12,7 @@ This project demonstrates a machine learning approach to classify gender based o
 6. [Hyperparameter Tuning](#hyperparameter-tuning)
 7. [Results](#results)
 8. [Conclusion](#conclusion)
-9. [How to Run](#how-to-run)
-10. [References](#references)
+
 
 ## Introduction
 
@@ -75,30 +74,9 @@ This approach helped identify the optimal hyperparameters for each kernel type t
 ## Conclusion
 
 The SVM model demonstrated high accuracy in classifying gender based on voice features. Both linear and RBF kernels provided excellent performance with appropriate hyperparameter tuning. This project highlights the importance of choosing the right kernel and hyperparameters in SVM to achieve high classification accuracy.
+## Screenshots
+![Code Screenshots](Screenshots/Screenshot1.png)
 
-## How to Run
 
-1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/yourusername/gender-classification-svm.git
-    ```
-
-2. Install the required Python libraries:
-
-    ```bash
-    pip install pandas numpy scikit-learn matplotlib seaborn
-    ```
-
-3. Run the Jupyter Notebook:
-
-    ```bash
-    jupyter notebook
-    ```
-
-4. Open the `Gender_Classification_SVM.ipynb` file and execute the cells.
-
-## References
-- Scikit-Learn Documentation: [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
----
 This README provides an overview of the SVM-based gender classification project, including data preprocessing, model evaluation, and hyperparameter tuning. For a detailed explanation and visualization, please refer to the project notebook.
