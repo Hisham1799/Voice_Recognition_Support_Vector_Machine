@@ -76,6 +76,9 @@ This approach helped identify the optimal hyperparameters for each kernel type t
 The SVM model demonstrated high accuracy in classifying gender based on voice features. Both linear and RBF kernels provided excellent performance with appropriate hyperparameter tuning. This project highlights the importance of choosing the right kernel and hyperparameters in SVM to achieve high classification accuracy.
 ## Screenshots
 ![Code Screenshots](Screenshots/Screenshot1.png)
+![Code Screenshots](Screenshots/Screenshot2.png)
+![Code Screenshots](Screenshots/Screenshot3.png)
+![Code Screenshots](Screenshots/Screenshot4.png)
 
 
 
